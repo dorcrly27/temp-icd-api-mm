@@ -1,2 +1,2 @@
-# temp-icd-api-mm
-temp project for mn dat, related to ICD codes
+## temp-icd-api-mm
+this is a temp project for mn data, related to ICD codes
